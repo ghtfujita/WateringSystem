@@ -1,4 +1,4 @@
-<h2 align="center"> Aquarium and Plant Watering Automator</h1>
+<h2 align="center"> Aquarium and Plant Watering Automator</h2>
 
 ### Background
 #### Tanks
