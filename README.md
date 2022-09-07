@@ -16,3 +16,4 @@
 * Plant: soil moisture
 ### System Overview
 ![overview](./img/fishTankAndPlanterWateringSystemOverview.jpg)
+![screenshot](./img/firebase.png)
